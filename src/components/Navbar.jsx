@@ -17,8 +17,8 @@ const Navbar = () => {
           setActive("");
           window.scrollTo(0, 0);
         }}>
-          <img src={logo} alt="logo" className="w-12 h-12 object-contain"/>
-          <p className="text-white text-[18px] font-bold cursor-pointer flex">Kalash Telkar &nbsp; <span className="sm:block hidden">| Portfolio </span></p>
+{/*           <img src={logo} alt="logo" className="w-12 h-12 object-contain"/> */}
+          <p className="text-white text-[18px] font-bold cursor-pointer flex">Kalash Telkar</p>
           </Link>
           
         <ul className="list-none hidden sm:flex flex-row gap-10">
