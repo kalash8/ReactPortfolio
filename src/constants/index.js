@@ -188,27 +188,27 @@ import {
       image: namratha,
       source_code_link: "https://lavenderblush-dove-342971.hostingersite.com/",
     },
-    {
-      name: "Portfolio Website",
-      description:
-        "Built an engaging portfolio website using React and Three.js, featuring interactive 3D elements and a sleek design to dynamically showcase projects and skills.",
-      tags: [
-        {
-          name: "reactjs",
-          color: "blue-text-gradient",
-        },
-        {
-          name: "Threejs",
-          color: "green-text-gradient",
-        },
-        {
-          name: "Tailwind",
-          color: "pink-text-gradient",
-        },
-      ],
-      image: portfolio,
-      source_code_link: "https://kalash-portfolio-nine.vercel.app/",
-    },
+    // {
+    //   name: "Portfolio Website",
+    //   description:
+    //     "Built an engaging portfolio website using React and Three.js, featuring interactive 3D elements and a sleek design to dynamically showcase projects and skills.",
+    //   tags: [
+    //     {
+    //       name: "reactjs",
+    //       color: "blue-text-gradient",
+    //     },
+    //     {
+    //       name: "Threejs",
+    //       color: "green-text-gradient",
+    //     },
+    //     {
+    //       name: "Tailwind",
+    //       color: "pink-text-gradient",
+    //     },
+    //   ],
+    //   image: portfolio,
+    //   source_code_link: "https://kalash-portfolio-nine.vercel.app/",
+    // },
     {
       name: "ECommerce Website",
       description:
