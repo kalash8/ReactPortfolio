@@ -1,4 +1,4 @@
-N Simport {
+import {
     javascript,
     html,
     css,
