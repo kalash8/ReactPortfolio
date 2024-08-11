@@ -1,4 +1,4 @@
-import {
+N Simport {
     javascript,
     html,
     css,
@@ -212,7 +212,7 @@ import {
     {
       name: "ECommerce Website",
       description:
-        "Developed a dynamic eCommerce website using React and Three.js, incorporating interactive 3D elements and a user-friendly interface to enhance the shopping experience.",
+        "Developed a dynamic eCommerce website using MERN Stack, incorporating a user-friendly interface to enhance the shopping experience.",
       tags: [
         {
           name: "reactjs",
@@ -222,13 +222,9 @@ import {
           name: "MongoDB",
           color: "green-text-gradient",
         },
-        {
-          name: "Nextjs",
-          color: "pink-text-gradient",
-        },
       ],
       image: working,
-      source_code_link: "https://kalash-portfolio-nine.vercel.app/",
+      source_code_link: "",
     },
   ];
   
