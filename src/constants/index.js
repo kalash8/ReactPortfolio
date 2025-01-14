@@ -119,7 +119,7 @@ import {
       company_name: "Accenture",
       icon: accenture,
       iconBg: "#383E56",
-      date: "August 2022 - January 2023",
+      date: "August 2023 - January 2024",
       points: [
         "Troubleshooting issues faced by clients for proper issue description.",
         "Managing Server rooms for patch and server up[dates",
@@ -128,11 +128,11 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "MLT Corporate Solutions",
+      title: "Jr. Developer",
+      company_name: "Zensum Solutions Pvt Ltd",
       icon: mlt,
       iconBg: "#383E56",
-      date: "March 2022 - July 2023",
+      date: "January 2024 - December 2024",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
