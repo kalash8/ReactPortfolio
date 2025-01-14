@@ -130,7 +130,7 @@ import {
     {
       title: "Jr. Developer",
       company_name: "Zensum Solutions Pvt Ltd",
-      icon: mlt,
+      icon: ml,
       iconBg: "#383E56",
       date: "January 2024 - December 2024",
       points: [
