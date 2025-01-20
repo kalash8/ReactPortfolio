@@ -128,11 +128,11 @@ import {
       ],
     },
     {
-      title: "Web Developer",
-      company_name: "MLT Corporates Solutions Pvt Ltd",
+      title: "Jr. Developer",
+      company_name: "Zensum Solutions Pvt Ltd",
       icon: mlt,
       iconBg: "#383E56",
-      date: "March 2024 - July 2024",
+      date: "January 2024 - December 2024",
       points: [
         "Developing and maintaining web applications using React.js and other related technologies.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
